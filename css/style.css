@@ -1,0 +1,13 @@
+
+body {
+  background-color: linen;
+}
+
+h1 {
+  color: rgb(212, 18, 18);
+  margin-left: 40px;
+}
+p {
+    text-align: center;
+    color: red;
+  }
